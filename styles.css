@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Days+One&display=swap");
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #ff0;
+    
+    
+    
+}
+
+h1 {
+    margin-top: 300px;
+    margin-left:40%;
+    font-size: 3rem;
+    color: red;
+    font-family: 'Days One', sans-serif;
+}
+
+div {
+    position: relative;
+    height: 8rem;
+}
+
+button {
+    position: absolute;
+    left: 40%;
+    height: 3rem;
+    font-size: 2rem;
+    bottom: 1%;
+    border: 3px solid red ;
+    background-color: #ff0;
+
+}
+
+button:hover {
+    background-color: lightgray;
+}
